@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "1",
+    "activity_id": "a1",
+    "user_id": "u1",
+    "status": "confirmed",
+    "register_time": "2025-04-25T08:00:00Z",
+    "confirm_time": "2025-04-26T09:00:00Z",
+    "remark": "已确认参加"
+  },
+  {
+    "_id": "2",
+    "activity_id": "a2",
+    "user_id": "u2",
+    "status": "pending",
+    "register_time": "2025-04-25T10:00:00Z",
+    "confirm_time": null,
+    "remark": "等待确认"
+  },
+  {
+    "_id": "3",
+    "activity_id": "a3",
+    "user_id": "u3",
+    "status": "rejected",
+    "register_time": "2025-04-25T11:00:00Z",
+    "confirm_time": "2025-04-25T12:00:00Z",
+    "remark": "已拒绝"
+  }
+]
